@@ -1,0 +1,4 @@
+Hello, Git World!
+This is my first file tracked by git.
+Today I learned git init, add, and commit
+ 
