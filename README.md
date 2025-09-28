@@ -1,6 +1,6 @@
 # My First Git Repository
 
-This is my `day-2-first-git` repository from the Save Your Code challenge.
+This is my `day-3-first-git` repository from the Save Your Code challenge.
 
 ## What I learned:
 - git init
